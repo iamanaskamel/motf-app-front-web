@@ -3,7 +3,7 @@
 This Project Can Track User Status By:
 1- First User Can Register By his UserName, Email, Image ,and password.
 2- his/her Infos will be stored in Strapi CMS, https://strapi.io/
-3- Secondlly User Can Login Using Password, Email , And Image to To Extract His Face Facial Infos to verfiy Person's identity. credit for the AI soultion is for https://mxface.ai/
+3- Secondlly User Can Login Using Password, Email , And Image  for Face Verification. credit for the AI soultion is for https://mxface.ai/
 4- After The User Logged In He See His/Him Infos and Logout
 
 ## Technologies
