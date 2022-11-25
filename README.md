@@ -1,23 +1,23 @@
 # Getting Started with Create React App
 
-This Project Can Track User Status By:
-1- First User Can Register By his UserName, Email, Image ,and password.
-2- his/her Infos will be stored in Strapi CMS, https://strapi.io/
-3- Secondlly User Can Login Using Password, Email , And Image  for Face Verification. credit for the AI soultion is for https://mxface.ai/
-4- After The User Logged In He See His/Him Infos and Logout
+This Project Can Track User Status By:  
+1- First User Can Register By his UserName, Email, Image ,and password.  
+2- his/her Infos will be stored in Strapi CMS, https://strapi.io/  
+3- Secondlly User Can Login Using Password, Email , And Image  for Face Verification. credit for the AI soultion is for https://mxface.ai/.  
+4- After The User Logged In He See His/Him Infos and Logout.  
 
 ## Technologies
 
-1- React Js
-2- React Router
-3- Mantine.UI Library
-4- Yarn Package Manager
-5- Node Version v16.13.1
+1- React Js.  
+2- React Router.  
+3- Mantine.UI Library.  
+4- Yarn Package Manager.  
+5- Node Version v16.13.1.  
 
 ## To Start The Project Run
 
-1- yarn install
-2- yarn start
+1- yarn install.  
+2- yarn start.  
 
 ## Available Scripts
 
